@@ -1,4 +1,4 @@
-# Soirée App - Flutter Party Mini-Games
+# Party App - Flutter Party Mini-Games
 
 This Flutter project is a mobile application in french providing several classic party games in a single interface. It is designed for quick use and a customized UI, making it ideal for casual group settings.
 
