@@ -4,7 +4,10 @@ This Flutter project is a mobile application in french providing several classic
 
 ## Screenshots
 
-<img width="546" height="1044" alt="image" src="https://github.com/user-attachments/assets/fd950b20-6957-4286-a2e9-a26b2c78c7fa" /><img width="540" height="1050" alt="image" src="https://github.com/user-attachments/assets/90a05219-a24b-48c5-b0d9-39b4098199d5" />
+<div style="display: flex; gap: 10px;">
+  <img width="270" height="520" alt="image1" src="https://github.com/user-attachments/assets/fd950b20-6957-4286-a2e9-a26b2c78c7fa" />
+  <img width="270" height="525" alt="image2" src="https://github.com/user-attachments/assets/90a05219-a24b-48c5-b0d9-39b4098199d5" />
+</div>
 
 
 <img width="550" height="1040" alt="image" src="https://github.com/user-attachments/assets/280409d3-6512-448c-bd46-456170e0c17b" />
