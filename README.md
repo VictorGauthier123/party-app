@@ -7,6 +7,13 @@ This Flutter project is a mobile application in french providing several classic
 <div style="display: flex; gap: 10px;">
   <img width="270" height="520" alt="image1" src="https://github.com/user-attachments/assets/fd950b20-6957-4286-a2e9-a26b2c78c7fa" />
   <img width="270" height="525" alt="image2" src="https://github.com/user-attachments/assets/90a05219-a24b-48c5-b0d9-39b4098199d5" />
+  <img width="550" height="1040" alt="image" src="https://github.com/user-attachments/assets/280409d3-6512-448c-bd46-456170e0c17b" />
+
+  <img width="548" height="1060" alt="image" src="https://github.com/user-attachments/assets/1a1890dc-20f8-4624-9682-ca03b0891664" />
+  
+  <img width="548" height="1052" alt="image" src="https://github.com/user-attachments/assets/59f28315-a63d-490f-b019-765b91f17468" />
+  
+  <img width="552" height="1050" alt="image" src="https://github.com/user-attachments/assets/602f13a8-9c31-4497-8f2a-ae2613926ca0" />
 </div>
 
 
