@@ -1,0 +1,81 @@
+{
+  "normal": {
+    "actions": [
+      "Fais 10 pompes.",
+      "Imite un animal pendant 10 secondes.",
+      "Chante une chanson enfantine.",
+      "Fais une grimace pendant 15 secondes.",
+      "Fais le tour de la pièce en sautant à cloche-pied.",
+      "Danse sans musique pendant 20 secondes.",
+      "Récite l’alphabet à l’envers.",
+      "Imite un prof que tu as eu.",
+      "Fais un compliment à chaque personne dans la pièce.",
+      "Fais semblant d’être un robot pendant 1 minute."
+    ],
+    "truths": [
+      "As-tu déjà triché à un jeu ?",
+      "Quel est ton secret le plus honteux ?",
+      "As-tu déjà été jaloux(se) d’un(e) ami(e) ?",
+      "As-tu déjà menti à tes parents ?",
+      "Quelle est la chose la plus gênante que tu aies dite à un crush ?",
+      "As-tu déjà été pris(e) la main dans le sac ?",
+      "Quel est ton plus grand complexe ?",
+      "As-tu déjà espionné quelqu’un ?",
+      "Quelle est ta pire habitude ?",
+      "As-tu déjà fait semblant d’aimer un cadeau ?"
+    ]
+  },
+  "soirée": {
+    "actions": [
+      "Danse sans musique pendant 30 secondes.",
+      "Fais un selfie bizarre et montre-le.",
+      "Mime ta dernière soirée sans parler.",
+      "Bois un verre avec une paille en faisant une pose ridicule.",
+      "Raconte une blague nulle.",
+      "Fais le cri de ton animal préféré.",
+      "Écris un message gentil à un(e) ex (mais ne l’envoie pas).",
+      "Dessine une moustache avec un stylo et garde-la 10 minutes.",
+      "Montre une photo compromettante de ton téléphone.",
+      "Fais semblant d’être saoul(e) pendant 1 minute."
+    ],
+    "truths": [
+      "As-tu déjà embrassé un inconnu en soirée ?",
+      "Quelle est ta pire gueule de bois ?",
+      "As-tu déjà été blacklisté(e) d’une soirée ?",
+      "As-tu déjà dormi dehors après une soirée ?",
+      "As-tu déjà perdu un pari ridicule ?",
+      "Quelle est ta plus grande honte en soirée ?",
+      "As-tu déjà flirté avec plusieurs personnes dans la même soirée ?",
+      "As-tu déjà menti pour éviter une soirée ?",
+      "Quel est ton meilleur souvenir de fête ?",
+      "As-tu déjà fait un karaoké gênant ?"
+    ]
+  },
+  "sexe": {
+    "actions": [
+      "Fais une imitation sexy de quelqu’un.",
+      "Fais une pose séduisante pendant 10 secondes.",
+      "Raconte ton rêve érotique le plus fou (à voix basse si tu veux).",
+      "Simule un baiser de cinéma.",
+      "Montre comment tu draguerais quelqu’un en 10 secondes.",
+      "Fais une déclaration d’amour très intense à une chaise.",
+      "Mime une scène de film romantique.",
+      "Dis la phrase la plus sexy que tu connaisses.",
+      "Montre ton regard de séduction.",
+      "Fais un gage osé inventé par quelqu’un d’autre."
+    ],
+    "truths": [
+      "As-tu déjà simulé un orgasme ?",
+      "Quel est ton fantasme secret ?",
+      "As-tu déjà eu une relation d’un soir ?",
+      "As-tu déjà couché avec une personne sans te souvenir de son prénom ?",
+      "As-tu déjà eu un crush sur un(e) pote ?",
+      "Quelle est la chose la plus gênante qui t’est arrivée pendant l’acte ?",
+      "Quelle est ta plus grande expérience ratée au lit ?",
+      "Avec combien de personnes as-tu couché ?",
+      "As-tu déjà été tenté(e) par quelqu’un d’inaccessible ?",
+      "As-tu déjà envoyé une photo compromettante ?"
+    ]
+  }
+}
+
